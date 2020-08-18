@@ -1,0 +1,16 @@
+
+body{
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    font-size: 25px;
+    }
+
+.btn-primary{
+    background-color:rgb(2, 138, 251);
+    border-radius: 8%;
+    color: white;
+    border: lightblue;
+    height: 25px;
+    width: 82px;
+}
+
